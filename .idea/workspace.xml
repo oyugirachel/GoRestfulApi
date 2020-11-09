@@ -27,9 +27,52 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goApi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604939683530">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1604939683530" />
+    <state width="1228" height="159" key="GridCell.Tab.0.bottom" timestamp="1604939738440">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604939738440" />
+    <state width="1228" height="159" key="GridCell.Tab.0.center" timestamp="1604939738438">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604939738438" />
+    <state width="1228" height="159" key="GridCell.Tab.0.left" timestamp="1604939738437">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604939738437" />
+    <state width="1228" height="159" key="GridCell.Tab.0.right" timestamp="1604939738439">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1228" height="159" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604939738439" />
   </component>
 </project>
